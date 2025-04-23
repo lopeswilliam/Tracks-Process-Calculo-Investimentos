@@ -1,6 +1,10 @@
 # Tracks-Process-Calculo-Investimentos
 
-Solução tecnológica avançada que integração de dados, ferramentas de análise com o objetivo de propor soluções para a utilização do seu produto.
+Solução tecnológica avançada que integração de dados, ferramentas de análise com o objetivo de propor soluções para a utilização do produto.
+
+Calculo de INVESTIMENTOS.
+
+PRODUTO: RENDA FIXA, AÇÕES E FUNDO DE INVESTIMENTOS.
 
 Em um ambiente robusto, seguro, escalavel.
 
