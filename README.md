@@ -10,9 +10,9 @@ Em um ambiente robusto, seguro, escalavel.
 
 Garantindo os requisitos de disponibilidade, seguranca, escalabilidade, desempenho e integridade da informação.
 
-Atraves do acesso via front end ou mobile, utilizando os recursos computacionais da aws para prover a disponibilidades das aplicações na web.
+Atraves do acesso via front end ou mobile, serao utilizandos os recursos computacionais da aws para prover a disponibilidades das aplicações na web.
 
-Utilizando tecnologias modernas e robustas, com processos de escalonamneto de carga, balanceamento de carga, roteamento de endereços IPS em uma rede privada VPC.
+Tecnologias modernas e robustas, com processos de escalonamneto de carga, balanceamento de carga, roteamento de endereços IPS em uma rede privada VPC.
 
 Com recursos de gerenciamento de conteiner utilizando O EKS e Fargate.
 
